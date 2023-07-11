@@ -1,2 +1,2 @@
 Shuming Zhang
-Meta Front-end professional
+Meta Front-end professionals
